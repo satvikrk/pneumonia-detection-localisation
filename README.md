@@ -30,11 +30,10 @@ Once training is complete, the notebook will generate Class Activation Maps (CAM
 
 Project Structure
 Weakly-Supervised-Pneumonia-Localization/
-│
-├── final_Weakly_Supervised_Pneumonia_Localization.ipynb
-├── link-to-dataset.rtf
-├── sample_submission.csv
-└── README.md
+final_Weakly_Supervised_Pneumonia_Localization.ipynb
+link-to-dataset.rtf
+sample_submission.csv
+README.md
 
 Model Summary
 Architecture: Custom CNN (SmallCAMNet)
